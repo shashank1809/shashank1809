@@ -1,12 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Shashank Vaghela</h1>
  
-- 🔭 Ask me about **DSA and JAVA**
+ - 🌱 I’m currently Studying **K.S. School of Business Management & Information Technology**
+ 
+ - 💬 Ask me about **MERN Stack**
+ 
+ - 🔭 I’m currently Learning **DSA and JAVA**
 
-- 🌱 I’m currently Studying **K.S. School of Business Management & Information Technology**
-
-- 💬 Ask me about **MERN Stack**
-
-- 📫 How to reach me **shashankv090@gmail.com**
+ - 📫 How to reach me **shashankv090@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
